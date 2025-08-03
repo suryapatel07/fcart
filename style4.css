@@ -1,0 +1,406 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0%;
+}
+body{
+    background-color: #e2e7e6;
+}
+.main{
+    height: 68px;
+    width: 100%;
+    background-color: white;
+}
+.navbar{
+    height: 68px;
+    width: 1287px;
+    margin-top: 25px;
+    margin-left: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+.logo{
+    height: 40px;
+    width: 160px;
+    background-image: url("flipcart.svg");
+    background-size: cover;
+}
+.search{
+    width: 426px;
+    height: 40px;
+    background-color:#e2e7e6;
+    border: 0.5px solid black;
+    border-radius: 4px;
+}
+#color{
+    background-color: #e2e7e6;
+}
+input{
+    height: 100%;
+    width: 95%;
+    border: none;
+}
+ .signin{
+    height: 40px;
+    width: 179px;
+    display: flex;
+}
+#home{
+    margin-top: 13px;
+    margin-right: 12px;
+}
+.signin:hover{
+    border: 2px solid yellow;
+    border-radius: 4px;
+}
+.cart{
+    height: 40px;
+    width: 170px;
+    font-size: 18px;
+}
+.cart i{
+    font-size: 25px;
+}
+.seller{
+    height: 40px;
+    width: 145px;
+}
+.seller i{
+    font-size: 20px;
+}
+.dot{
+    margin-bottom: 10px;
+}
+.hero{
+    height: 142px;
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box1{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box1-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox1.webp");
+    background-size: cover;
+    margin-left: 20px;
+}
+.box2{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box2-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox2.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box3{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box3-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox3.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box4{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+
+}
+.box4-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox4.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box5{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box5-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox5.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box6{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box6-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox6.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box7{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box7-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox7.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box8{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box8-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox8.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box9{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box9-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox9.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.box10{
+    height: 100%;
+    width: 141px;
+    text-align: center;
+}
+.box10-img{
+    height: 92px;
+    width: 90px;
+    background-image: url("fbox10.webp");
+    background-size: cover;
+    margin-left: 20px;
+
+}
+.hero-main{
+    height: 208px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: white;
+}
+.heromain-img{
+    height: 100%;
+    width: 98%;
+    background-image: url("heromainimg.webp");
+    background-size: cover;
+}
+.shop-section{
+    height: 370px;
+    width: 100%;
+    border: 2px solid red;
+}
+.ph1{
+    height: 268px;
+    width: 261px;
+    border: 2px solid yellow;
+}
+.ph1-img{
+    height: 80%;
+    width: 90%;
+    background-image: url("phone1.png");
+    background-size: cover;
+}
+.foot1{
+    height: 247px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    margin-top: 50px;
+
+}
+.electronic{
+    height: 345px;
+    width: 97%;
+    margin-top: 28px;
+    background-color: white;
+    
+}
+.center{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;    
+}
+
+.elitem{
+    height: 268px;
+    width: 216px;
+    border: 0.5px solid rgba(0, 0, 0, 0.29);
+    border-radius: 4px;
+    
+
+}
+.imageel{
+    height: 186px;
+    width: 186px;
+    background-image: url("box1_image.jpg");
+    background-size: cover;
+    margin-bottom: 19px;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+.electronic h1{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 1.5rem;
+}
+.imageel p{
+    color: #212121;
+}
+.elcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    height: 355px;
+    margin-top: 30px;
+    width: 100%;
+    background-color: #212121;
+}
+.footer1{
+    height: 246px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.footer1 p{
+    color: #878787;
+    margin-bottom: 18px;
+}
+ul{
+    color: #ffffff;
+}
+ 
+#ulone{
+    height:205px;
+    width: 131px;
+}
+
+#ultwo{
+    height:205px;
+    width: 131px;
+
+}
+#ulthree{
+    height:205px;
+    width: 131px;
+
+}
+#ulfour{
+    height:205px;
+    width: 131px;
+
+}
+#ulfive{
+    height:205px;
+    width: 287px;
+
+}
+#ulsix{
+    height:205px;
+    width: 255px;
+
+}
+.footer2{
+    height: 70px;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+.footsell{
+    height: 18px;
+    color: #Ffffff;
+    width: 113px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.footsell p{
+    font-size: 0.8rem;
+    margin-left: 4px;
+}
+.footsell i{
+    font-size: 0.7rem;
+}
+.advertise{
+    height: 18px;
+    width: 77px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.advertise p{
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
+.card{
+    height: 18px;
+    width: 79px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card p{
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
+.help{
+    height: 18px;
+    width: 90px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.help p{
+    font-size: 0.8rem;
+    margin-left: 5px;
+}

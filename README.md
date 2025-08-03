@@ -13,7 +13,7 @@
 
 ## 📸 Screenshots
 
-> *(Insert screenshots of your homepage and sections here)*
+> ![Homepage](images/homepage.png)
 
 ---
 

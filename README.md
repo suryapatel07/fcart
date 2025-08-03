@@ -13,7 +13,7 @@
 
 ## 📸 Screenshots
 
-> ![Homepage](images/homepage.png)
+> ![Homepage](images/homepage)
 
 ---
 
